@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=M- Pin=D1-1
+Removed Pin From Net: NetName=M- Pin=P1-2
+Removed Pin From Net: NetName=M- Pin=P2-1
+Added Component: Designator=JP1(PAD-JUMPER-2-NC_BY_TRACE_NO_SILK)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=M- Pin=JP1-1
+Change Net Name : Old Net Name=M- New Net Name=GND
+Added Pin To Net: NetName=M- Pin=D1-1
+Added Pin To Net: NetName=M- Pin=JP1-2
+Added Pin To Net: NetName=M- Pin=P1-2
+Added Pin To Net: NetName=M- Pin=P2-1
+Added Net: Name=M-
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JUMPER-PAD-2-NC_BY_TRACENO_SILK
+Added Member To Class: ClassName=Sheet1 Member=Component P2 hephaestus bus
