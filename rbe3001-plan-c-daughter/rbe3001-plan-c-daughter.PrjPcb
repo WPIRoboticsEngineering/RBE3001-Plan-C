@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGNRNBAQ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for rbe3001-plan-c-daughter\Design Rule Check - PCB2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
